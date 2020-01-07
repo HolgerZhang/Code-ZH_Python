@@ -1,2 +1,2 @@
 # Code-ZH
-My codes.
+My Python codes.
